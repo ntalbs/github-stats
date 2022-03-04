@@ -21,7 +21,7 @@ Actually, `EXCLUDE` and `EXCLUDE_LANG` don't need to be secrets, and it's very i
 ### Current settings:
 ```
 EXCLUDE=ntalbs/ntalbs.github.io,ntalbs/github-stats
-EXCLUDE_LANG=html,stylus,css,ejs
+EXCLUDE_LANG=html,stylus,css,ejs,yasnippet
 ```
 
 ### Manually excuting workflow
